@@ -1,0 +1,59 @@
+#dq {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    text-align: start;
+    min-width: 120px;
+    min-height: 50px;
+    border-style: none;
+    color: #006400;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5px;
+    
+  }
+
+#container {
+  border: black solid 2px;
+  padding: 5px;
+  max-width: 400px;
+}
+
+#productDescription {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+  .visible {
+    display: block;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  #paymentPanel {
+    margin-top: 5px;
+    max-width: 390px;
+  }
+
+  #cardDetails {
+    display: grid;
+    max-width: 395px;
+    grid-template-columns: 2fr  20px 50px 50px 60px; ;
+    grid-auto-rows: 30px;
+    border: black solid 1px;
+    border-radius:5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5px;
+  }
+
+  #cardDetails input {
+    border: none;
+    border-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  img {
+    width: 400px;
+  }

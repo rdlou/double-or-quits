@@ -1,0 +1,38 @@
+#dq {
+    background-color: #006400;
+    border-radius: 10px;
+    text-align: start;
+    min-width: 120px;
+    min-height: 50px;
+    border-style: none;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    
+  }
+
+
+  .visible {
+    display: block;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  input {
+    border-radius: 5px;
+  }
+
+  #cardPanel {
+    grid-template-columns: auto auto auto auto;
+  }
+
+  #cardNumber {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+  #cardExpiry {
+    grid-column-start: 3;
+    grid-column-end: 4;
+  }

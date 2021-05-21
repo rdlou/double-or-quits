@@ -1,0 +1,14 @@
+#main{
+
+}
+
+.item{
+  min-width: 360px;
+  border: black solid 2px;
+  margin: 0 auto;
+}
+
+p {
+    color: red;
+    border: 1px solid black;
+}

@@ -1,0 +1,1 @@
+{"id":"src/css/style.css","dependencies":[],"generated":{"css":false,"js":"module.exports = \"#main{\\n\\n}\\n\\n.item{\\n  min-width: 360px;\\n  border: black solid 2px;\\n  margin: 0 auto;\\n}\\n\\np {\\n    color: red;\\n}\""},"sourceMaps":null,"error":null,"hash":"e738422d93f4b43b6136cf8b644fc441","cacheData":{}}
